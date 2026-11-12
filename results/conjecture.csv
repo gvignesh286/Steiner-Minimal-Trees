@@ -1,0 +1,19 @@
+family,n,rho,reduction_pct
+equilateral triangle,3,0.8660254038,13.3975
+square,4,0.9106836025,8.9316
+regular hexagon,6,1.0000000000,0.0000
+triangular lattice patch,6,0.8928203230,10.7180
+triangular lattice patch,10,0.8713226371,12.8677
+triangular lattice patch,15,0.8776501553,12.2350
+triangular lattice patch,21,0.8812352128,11.8765
+triangular lattice patch,7,0.8660254038,13.3975
+triangular lattice patch,19,0.8761170536,12.3883
+square grid,9,0.9330127019,6.6987
+square grid,16,0.9240036589,7.5996
+square grid,25,0.9273336729,7.2666
+random search,3,0.8672604705,13.2740
+random search,4,0.8671463810,13.2854
+random search,5,0.8700142696,12.9986
+random search,6,0.8732390097,12.6761
+random search,7,0.8771473478,12.2853
+random search,8,0.8856334950,11.4367
